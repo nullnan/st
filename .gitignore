@@ -1,3 +1,4 @@
 .ccls-cache
 st
 *.o
+*.orig
