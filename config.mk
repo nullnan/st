@@ -4,7 +4,7 @@ VERSION = 0.8.4-nullnan
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = /usr/local/stow/stterm
 MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/include/X11
